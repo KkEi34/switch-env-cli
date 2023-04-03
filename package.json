@@ -1,0 +1,19 @@
+{
+  "name": "switch-env-cli",
+  "version": "0.1.0",
+  "description": "switches application environment",
+  "preferGlobal": true,
+  "bin": {
+    "switch-env-cli": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KkEi34/switch-env-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
